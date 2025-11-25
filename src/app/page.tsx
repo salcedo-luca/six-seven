@@ -16,7 +16,7 @@ export default function HomePage() {
 						<h3 className="font-bold text-2xl">First Steps →</h3>
 						<div className="text-lg">
 							Just the basics - Everything you need to know to set up your
-							database and authentication.
+							database and authentication. 
 						</div>
 					</Link>
 					<Link
@@ -35,3 +35,4 @@ export default function HomePage() {
 		</main>
 	);
 }
+//a
